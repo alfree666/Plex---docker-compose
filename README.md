@@ -1,3 +1,3 @@
 # plex
 Plex - docker-compose
-Ver en puerto: 8500
+Ver en puerto: 8200
